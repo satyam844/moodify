@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 2px 0px;
+    height: 100vh;  
+}
+
+.middle{
+    flex: grow 1;
+    margin: 2px 0px ;
+    overflow-y: auto;
+}
